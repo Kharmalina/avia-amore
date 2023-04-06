@@ -1,0 +1,19 @@
+{
+  "name": "avia-amore",
+  "version": "1.0.0",
+  "description": "A list of small airplanes, styled via flex box and media queries",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start-dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.22"
+  }
+}
